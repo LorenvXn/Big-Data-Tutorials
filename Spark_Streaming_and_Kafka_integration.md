@@ -245,7 +245,8 @@ We will be using Zeppelin next time, on how to integrate it with MapR - when rea
 (with machine learning algorithms & prediction graphs)
 
 This time, if you check the above scheme, we have implemented paths (A), (B) and (D). 
-(C) in the next tutorial. :)
+
+(C) in the next tutorial, for [Part II](https://github.com/Satanette/Big-Data-Tutorials/blob/master/Real%20Time_Analysis_and_Prediction_with_Zeppelin.md)
 
 Useful links:
 
