@@ -2,6 +2,8 @@
 
 <b><i>Real Time Analysis and Prediction with Zeppelin (well..sort of) </b></i>
 
+ Check [Part I](https://github.com/Satanette/Big-Data-Tutorials/blob/master/Spark_Streaming_and_Kafka_integration.md) for more details
+
 <b>Environment</b> based on output from Part I, this tutorial was made entirely in Zeppelin notebooks
 http://www.racketracer.com/2015/12/28/getting-started-apache-zeppelin-airbnb-visuals/ 
 
