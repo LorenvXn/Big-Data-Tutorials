@@ -96,7 +96,7 @@ Time to analyse and predict the streaming data based on input columns, in sql no
 
     
     
-    <b>Resources and documentation</b>
+ <b>Resources and documentation</b>
 
 <i>https://spark.apache.org/docs/2.0.2/ml-clustering.html#k-means</br>
 http://spark.apache.org/docs/latest/sql-programming-guide.html</br>
