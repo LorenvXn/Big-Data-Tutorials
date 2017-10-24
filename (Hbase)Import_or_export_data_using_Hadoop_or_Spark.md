@@ -165,7 +165,7 @@ It should be looking as below:
 ![ScreenShot](https://github.com/Satanette/test/blob/master/sp8.png)
 
 <b>2)Submit it!</b>
-![ScreenShot](https://github.com/Satanette/test/blob/master/sp9.png)
+![ScreenShot](https://github.com/Satanette/test/blob/master/sp12.png)
 
 Table successfully built using Spark.
 
